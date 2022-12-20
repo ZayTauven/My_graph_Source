@@ -1,0 +1,82 @@
+.mygraph-fr {
+    min-width: 370px;
+    min-height: 450px;
+    background: #ececec;
+}
+
+.mygraph-fr .popup-padded {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: white;
+    min-width: 350px;
+    min-height: 420px;
+}
+
+.mygraph-fr input {
+    height: 16px;
+    border: 1px solid #2196F3;
+    padding: 5px;
+}
+
+.mygraph-fr .manage-account-link {
+    color: #2196F3;
+    background: #e6f3ff;
+    float: right;
+    font-size: 15px;
+}
+
+.mygraph-fr .btn {
+    border: 1px solid #90A4AE;
+    color: black;
+    background: #f9f9f9;
+    padding: 3px 8px;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+.mygraph-fr .activer-btn {
+    color: rgb(0, 140, 255);
+}
+
+.mygraph-fr .link-compte {
+    text-align: right;
+}
+
+.mygraph-fr .extVersion {
+    background: #dbff8e;
+    font-size: 11px;
+    padding: 1px;
+    color: black;
+}
+
+.mygraph-fr .notOptValue {
+    background: rgba(250, 84, 15, 0.22);
+    font-size: 12px;
+    padding: 1px;
+    color: #bb1313;
+}
+
+.mygraph-fr .productivity {
+    color: #0c79e0;
+}
+.mygraph-fr table {
+    width: 99%;
+}
+
+.mygraph-fr table > tr > td {
+    border: 1px solid #EEE;
+    padding: 1px;
+}
+
+.mygraph-fr .table-config td {
+    border-bottom: 1px solid #eeeaea;
+
+}
+
+.mygraph-fr .td-label {
+    font-weight: bolder;
+    color: #bb1313;
+}
